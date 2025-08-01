@@ -4,7 +4,7 @@ Aqui você encontrará cursos para turbinar seu currículo dentro da área de te
 
 
 
-  </style>
+ 
 </head>
 <body>
   <h1>Cursos Gratuitos e Reconhecidos com Certificado – Área de Tecnologia</h1>
